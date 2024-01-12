@@ -1,10 +1,10 @@
 # Hotel-Management-System-Java
-### Implementation
+## Implementation
   The project is implemented using Swing GUI widget toolkit and MYSQL database. There are totally 9 classes. The root class i.e Hotel exhibits singleton design pattern whereas RoomCustomer and RestuarantCustomer incorporate the properties of factory design pattern. 
-### About the project
+## About the project
   A customer can select either of the services provided by the hotel i.e., Accommodation or Food. Based on the customer’s choice he/she will be redirected to the next page where he/she can select desired food items or book rooms. 
 Admin can add/delete dishes or rooms to the database.
-### Steps to run the application
+## Steps to run the application
   1. Open xampp server and create a database named ‘renaissance’.
   2. Create required tables and populate the database using database.txt.
   3. Import the project in Eclipse/VSCode IDE.
